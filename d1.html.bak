@@ -1,0 +1,496 @@
+<!DECTYPE html>
+<html>
+
+<head>
+
+<style>
+html {
+  margin:5px;}
+  body{background-color:white }
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.centerr {
+  margin: auto;
+  width: 50%;
+  padding: 0px;
+}
+.navbar {
+  overflow: hidden;
+  background-color:#F4D03F  ;
+  position: fixed; 
+  top: 0; 
+  width: 99%;
+  height:10%;
+  }
+  .topnav-centered  {
+    position: relative;
+    top: 0;
+    left: 0;
+    transform: none;
+  }
+#pot {<!--  w  w   w .  d  e  m  o  2   s.  c   o m  -->
+   bottom:15%;
+   position:absolute;
+   -webkit-animation:linear infinite;
+   -webkit-animation-name:run;
+   -webkit-animation-duration:8s;
+}
+
+@-webkit-keyframes run  {
+   0% {
+      left:0;
+      -webkit-transform:rotateY(0deg);
+   }
+   
+   50% {
+      left:82%;
+      -webkit-transform:rotateY(0deg);
+   }
+   
+   51% {
+      -webkit-transform:rotateY(180deg);
+   }
+   
+   99% {
+      left:0;
+      -webkit-transform:rotateY(180deg);
+   }
+   
+   100% {
+      left:0;
+      -webkit-transform:rotateY(0deg);
+   }
+   #u{text-align:center;}
+  
+  
+  
+  
+  
+  
+</style>
+</head>
+
+<body>
+
+
+<div style="background-color:#F4D03F ;
+display:flex;" class="navbar" class="topnav-centered">
+
+<div style="font-family:Lucida Handwriting;font-size:23">
+<h1 style="color:black;direction:ltr;margin-left:30px;margin-top:8px;">
+IEEE BAU CS </h1></div>
+<div style="direction: rtl; margin-right:10px;" class="centerr" >
+<br>
+<a href=" "><img src=pic2.png width=40px height=40px >
+</a>
+<a href="https://www.facebook.com/IEEEBAUCS/ "><img src=pic1.png width=40px height=40px >
+</a>
+<a href=" "><img src=pic3.png width=40px height=40px ><br>
+</a>
+</div>
+
+</div>
+<br><br>
+
+<div id="pot"> 
+
+<h1 style="font-size:40px">IEEE.ORG</h1></div>
+
+</div>
+
+<br><br><br><br>
+<!--
+<hr>
+<div style="background-image:url('pic4.jpg');width:auto;height:55%;
+background-image: no-repeat; background-size:90% 140%; object-fit: cover;"></div>
+<hr >
+
+<div style="display:flex;width:700;hight:55%;background-color:blue;" class="center">
+<div style="width:350;height:27%;"> <img src="pic8.jpg" width="350px" height="55%"></div>
+<div style="width:350;height:27%;"><img src="pic7.png" width="350px" height="55%"></div>
+
+</div>-->
+
+
+<br><hr>
+<div class="center" style="display:flex;width:auto ;height:600px;
+background-color:#283747 ;">
+<!--<div style="display:flex;background-color:white;width:1150px;
+height:300px;margin:20px;">-->
+<div style="color:#F4F6F6;margin:20px; font-family:Lucida Console;padding:10;">
+<br><br>
+<h1>About the IEEE Computer Society</h1><br>
+ <h2>
+Empowering Computer Science and Engineering Professionals to Fuel Continued Advancement
+Engaging computer engineers, scientists, academia, and industry professionals from all areas of computing, the IEEE Computer Society (CS) sets the standard for the education and engagement that fuels continued global technological advancement. Through conferences, publications, and programs, and by bringing together computer science and engineering leaders at every phase of their career for dialogue, debate, and collaboration, IEEE CS empowers, shapes, and guides the future of not only its members, but the greater industry, enabling new opportunities to better serve our world.
+
+</h2>
+</div>
+</div><hr><br><br><br><br>
+
+<div class="center" style="display:flex;width:auto ;height:600px;ustify-content:center
+background-color:#283747 ;">
+
+
+<div>
+
+
+<video width="1300" height="500" autoplay muted controls>
+  <source src="v1.mp4" type="video/mp4">
+</div>
+
+
+</div>
+
+
+<!--<center>
+<div   style="background-color:white;height:250px;width:250px;margin:20px; 
+border: solid 10px white;border-radius: 250px; background-color:blue;"  >
+<h1 style="text-align:center;">
+Chairman
+</h1>
+<h2>
+Mohammad Abu Saada 
+
+</h2></div>
+</center>-->
+
+<div><h1 style="color:black;font-size:60;;font-family:Lucida Console;
+text-align:left;text-shadow: 2px 2px #F4D03F 
+;">
+<span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>EXECUTIVE COMMITTEE </h1></div>
+</div>
+<br>
+<span style="color:#F4D03F;font-size:30px;font-weight: 1000;margin-left:60px">
+___________________________________________________________________________</span>
+
+
+
+<div style="display:flex;width:1000;height:900;
+background-color:white; flex-wrap: wrap;padding:20px;justify-content:center
+"
+class="center" >
+
+<div   style="background-color:#F4D03F;height:220px;width:220px;margin:20px; 
+border: solid 10px white;  padding:10px" >
+<br><br><br><br><h1 style="text-align:center;margin-top:2px">
+Chairman
+</h1>
+<h2 style="text-align:center;">
+Mohammad Abu Saada 
+
+</h2></div>
+
+<div   style="background-color:#F4D03F;height:220px;width:220px;margin:20px; 
+border: solid 10px white;padding:10px"  >
+<br><br><br><br><h1 style="text-align:center;margin-top:2px">
+Vice-Chair
+</h1>
+<h2 style="text-align:center;">
+Banan Shatara
+
+</h2></div>
+<div   style="background-color:#F4D03F;height:220px;width:220px;margin:20px; 
+border: solid 10px white; padding:10px"  >
+<br><br><br><br><h1 style="text-align:center;margin-top:2px">
+Social Media
+</h1>
+<h2 style="text-align:center;">
+Malak Hasan
+
+
+</h2></div>
+<div   style="background-color:#F4D03F;height:220px;width:220px;margin:20px; 
+border: solid 10px white; padding:10px"  >
+<br><br><br><br><h1 style="text-align:center;margin-top:2px">
+Public Relation</h1>
+<h2 style="text-align:center;">
+Alaa Al-ajawi
+ 
+
+</h2></div>
+<div   style="background-color:#F4D03F;height:220px;width:220px;margin:20px; 
+border: solid 10px white; padding:10px"  >
+<br><br><br><br><h1 style="text-align:center;margin-top:2px">
+Secretary</h1>
+<h2 style="text-align:center;">
+Abdelrahman Ghneim
+ 
+
+</h2></div>
+<div   style="background-color:#F4D03F;height:220px;width:220px;margin:20px; 
+border: solid 10px white;padding:10px"  >
+<br><br><br><br><h1 style="text-align:center;margin-top:2px">
+Treasure</h1>
+<h2 style="text-align:center;">
+Mohammad Maaitah 
+
+</h2></div>
+<div   style="background-color:#F4D03F;height:220px;width:220px;margin:20px; 
+border: solid 10px white; padding:10px"  >
+<br><br><br><br><h1 style="text-align:center;margin-top:2px">
+Membership Development
+</h1>
+<h2 style="text-align:center;"> 
+Ibrahim Abdalhadi
+
+</h2></div>
+<div   style="background-color:#F4D03F;height:220px;width:220px;margin:20px; 
+border: solid 10px white; padding:10px"  >
+<br><br><br><br><h1 style="text-align:center;margin-top:2px">
+Membership Development
+</h1>
+<h2 style="text-align:center;">
+Reem Nedal 
+
+</h2></div>
+</div>
+<br><br><br>
+<div class="center" style="display:flex;width:auto ;height:80px;
+ ">
+
+<div><h1 style="color:black;font-size:70;;font-family:Lucida Console;
+text-align:left;text-shadow: 2px 2px #F4D03F 
+;">
+<span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>EVENTS </h1></div>
+</div>
+<br>
+<div style="color:#F4D03F;font-size:30px;font-weight: 1000;margin-left:60px">
+___________________________________________________________________________</div>
+<br><br>
+<div><h1 style="color:black;font-size:80;;font-family:Lucida Console;margin:30px;
+text-align:left; text-shadow: 2px 2px #F4D03F;">
+<span style="color:#F4D03F">|</span>IEEE DAY  </h1></div>
+
+<div style="display:flex;width:1200;height:900;
+background-color:white; flex-wrap: wrap;padding:20px;justify-content:center
+"
+class="center" >
+
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="pice1.jpg" width=300px  height=300px>
+</div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="pice5.jpg" width=300px  height=300px>
+</div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="pice2.jpg" width=300px  height=300px>
+</div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="pice3.jpg" width=300px  height=300px>
+</div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="pice4.jpg" width=300px  height=300px>
+</div>
+</div>
+
+
+<div><h1 style="color:black;font-size:59;;font-family:Lucida Console;margin:30px;
+text-align:left; text-shadow: 2px 2px #F4D03F;">
+<span style="color:#F4D03F">|</span><b>IEEE SPECTRUM LAB 4</b>  </h1></div>
+
+<div style="display:flex;width:1200;height:900;
+background-color:white; flex-wrap: wrap;padding:20px;justify-content:center
+"
+class="center" >
+
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="pics1.jpg" width=300px  height=300px>
+</div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="pics5.jpg" width=300px  height=300px>
+</div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="pics4.jpg" width=300px  height=300px>
+</div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="pics3.jpg" width=300px  height=300px>
+
+<div   style=";height:300px;width:600px;margin:20px; 
+   padding:10px" ><center>
+   <video width="300" height="300" autoplay muted controls>
+  <source src="v5.mp4" type="video/mp4">
+</center>
+</div>
+</div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="pics2.jpg" width=300px  height=300px>
+</div>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+<div><h1 style="color:black;font-size:59;;font-family:Lucida Console;margin:30px;
+text-align:left; text-shadow: 2px 2px #F4D03F;">
+<span style="color:#F4D03F">|</span><b>IEEE SPECTRUM LAB 3</b>  </h1></div>
+
+
+<div style="display:flex;width:1200;height:900;
+background-color:white; flex-wrap: wrap;padding:20px;justify-content:center
+"
+class="center" >
+
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="3pic1.jpg" width=300px  height=300px>
+</div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="3pic2.jpg" width=300px  height=300px>
+</div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="3pic4.jpg" width=300px  height=300px>
+</div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+  <img src="3pic3.jpg" width=300px  height=300px></div>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+<img src="3pic5.jpg" width=300px  height=300px></div>
+
+<div   style=";height:300px;width:600px;margin:20px; 
+   padding:10px" ><center>
+   <video width="300" height="300" autoplay muted controls>
+  <source src="v6.mp4" type="video/mp4">
+</center>
+</div>
+</div>
+
+</div><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<div><h1 style="color:black;font-size:59;;font-family:Lucida Console;margin:30px;
+text-align:left; text-shadow: 2px 2px #F4D03F;">
+<span style="color:#F4D03F">|</span><b>THE MYSTERIOUS FUTURE </b>  </h1>
+<br><br>
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px;margin-left:500px" >
+<img src="pm.jpg" width=350px  height=350px ></div>
+
+</div><br><br><br><br><br><br>
+
+<div><h1 style="color:black;font-size:60;;font-family:Lucida Console;
+text-align:left;text-shadow: 2px 2px #F4D03F ;">
+<span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>WORKSHOPS </h1></div>
+</div>
+<span style="color:#F4D03F;font-size:30px;font-weight: 1000;margin-left:60px">
+___________________________________________________________________________</span>
+
+<div style="display:flex;width:1200;height:900;
+background-color:white; flex-wrap: wrap;padding:20px;justify-content:center
+"
+class="center" >
+
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+   
+ <h1 style="margin-left:5px">  <span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>
+ Computer Science Workshop
+ </h1>
+<img src="wpic1.png" width=300px  height=300px>
+</div>
+
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+   
+ <h1 style="margin-left:5px">  <span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>
+Machine learning Workshop
+ </h1>
+<img src="wpic2.png" width=300px  height=300px>
+</div>
+
+
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+   
+ <h1 style="margin-left:5px">  <span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>
+
+ Linux & Cloud computing
+ </h1>
+<img src="wpic3.jpg" width=300px  height=300px>
+</div>
+
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+   
+ <h2 style="margin-left:5px;font-size:20px">  <span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>
+E-HACKING AND PENETRATION TESTING
+
+ </h2>
+<img src="wpic4.png" width=300px  height=300px>
+</div>
+
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+   
+ <h1 style="margin-left:5px">  <span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>
+ IOT workshop
+
+ </h1>
+<img src="wpic5.png" width=300px  height=300px>
+</div>
+
+
+
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+   
+ <h1 style="margin-left:5px;font-size:26px">  <span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>
+Cybersecurity workshop
+ </h1>
+<img src="wpic6.png" width=300px  height=300px>
+</div>
+</center>
+</div>
+</div>
+<br><br><br><br><br><br>
+
+</div>
+<div><h1 style="color:black;font-size:80;;font-family:Lucida Console;
+text-align:left;text-shadow: 2px 2px #F4D03F ;">
+<span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>NEWS </h1></div>
+</div>
+<span style="color:#F4D03F;font-size:30px;font-weight: 1000;margin-left:60px">
+___________________________________________________________________________</span>
+
+<div style="display:flex;width:1200;height:900;
+background-color:white; flex-wrap: wrap;padding:20px;justify-content:center
+"
+class="center" >
+
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+   
+ <h1 style="margin-left:5px">  <span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>
+GRAND TECH 2022 |IEEE HU Computer Chapter
+ </h1>
+<img src="npic1.jpg" width=300px  height=300px>
+</div>
+
+<div   style=";height:300px;width:300px;margin:20px; 
+   padding:10px" >
+   
+ <h1 style="margin-left:5px">  <span style="color:#F4D03F;text-shadow: 2px 2px #F4D03F">|</span>
+ Linux Fundamentals Workshop
+ </h1>
+
+</div>
+
+
+</body>
+
+</html>
